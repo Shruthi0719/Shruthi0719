@@ -56,23 +56,6 @@ reliable APIs, and maintainable code, beyond academic demos.
 
 <div align="center">
 
-## 🌱 Learning Roadmap
-
-</div>
-
-*(Actively learning / planned next)*
-
-- Advanced Spring Boot concepts  
-- System design fundamentals  
-- Multithreading and concurrency  
-- Docker fundamentals  
-- Cloud basics (AWS / GCP)  
-- Deeper open-source contribution workflows  
-
----
-
-<div align="center">
-
 ## 🧠 Problem Solving
 
 </div>
