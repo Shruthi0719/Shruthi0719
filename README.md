@@ -1,9 +1,12 @@
-# Shruthi Yadav
+<div align="center">
 
-Backend-Focused Software Engineer (CS Undergraduate)
+# Shruthi Yadav
+**Backend-Focused Software Engineer (CS Undergraduate)**
 
 Building production-oriented backend systems with strong foundations in data structures, databases, and system-level thinking.  
 Focused on writing clean, maintainable code beyond academic implementations.
+
+</div>
 
 ---
 
@@ -12,8 +15,10 @@ Focused on writing clean, maintainable code beyond academic implementations.
 **Backend:** REST APIs · OOP · Spring Boot (Learning)  
 **Tools:** Git · GitHub · Linux  
 
+---
+
 ## CS Foundations
-Data Structures · Algorithms · DBMS · Operating Systems  
+Data Structures · Algorithms · DBMS · Operating Systems · Computer Networks  
 
 ---
 
@@ -29,20 +34,23 @@ Data Structures · Algorithms · DBMS · Operating Systems
 
 LeetCode: https://leetcode.com/shruthi_19  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/shruthi_19?theme=dark&font=JetBrains%20Mono)
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=shruthi_19&theme=dark)
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/shruthi_19?theme=dark&font=JetBrains%20Mono" />
+<br/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=shruthi_19&theme=dark" />
+</div>
 
 ---
 
 ## Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruthi0719&theme=github-dark)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruthi0719&theme=github-dark" />
+</div>
 
 ---
 
 ## Contact
 LinkedIn: https://linkedin.com/in/rshruthiyadav  
 Email: shruthii1819@gmail.com
-
 
