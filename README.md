@@ -1,84 +1,48 @@
-<div align="center">
-  
-# Hi, I’m Shruthi 👋
+# Shruthi Yadav
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rshruthiyadav)
-[![Email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:shruthii1819@gmail.com)
+Backend-Focused Software Engineer (CS Undergraduate)
 
-</div>
-
-Computer Science undergraduate focused on **software engineering**,  
-**backend development**, and **open-source contributions**.
-
-I’m interested in building **production-ready systems** with clear logic,  
-reliable APIs, and maintainable code, beyond academic demos.
+Building production-oriented backend systems with strong foundations in data structures, databases, and system-level thinking.  
+Focused on writing clean, maintainable code beyond academic implementations.
 
 ---
 
-<div align="center">
+## Tech Stack
+**Languages:** Java · SQL · Python  
+**Backend:** REST APIs · OOP · Spring Boot (Learning)  
+**Tools:** Git · GitHub · Linux  
 
-## 🔭 Current Focus
+## CS Foundations
+Data Structures · Algorithms · DBMS · Operating Systems  
 
-</div>
+---
 
-- 🐧 Linux fundamentals for development environments  
-- 🔧 Git & GitHub workflows for open-source collaboration  
-- ☕ Java-based backend systems  
-- 🌱 Preparing for **Google Summer of Code (GSoC)**  
+## Focus
+- Backend engineering using Java ecosystem  
+- Scalable API design and system logic clarity  
+- Linux-based development workflows  
+- Open-source contribution readiness (GSoC)
 
-<br/>
+---
 
-<div align="center">
+## Problem Solving
 
-## 🛠 Skills & Tools
-
-</div>
-
-### 💻 Languages
-- Java  
-- SQL
-- Python
-
-### 🧩 Backend & Development
-- REST API design  
-- Spring Boot (foundational)  
-- Object-Oriented Programming  
-
-### ⚙️ Tools & Environment
-- Git · GitHub · Linux  
-
-### 📚 Core CS Foundations
-- Data Structures & Algorithms  
-- Database Management Systems  
-- Operating Systems  
-
-<br/>
-
-<div align="center">
-
-## 🧠 Problem Solving
-
-</div>
-
-- 🔗 LeetCode: https://leetcode.com/shruthi_19  
-
-<div align="center">
+LeetCode: https://leetcode.com/shruthi_19  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shruthi_19?theme=dark&font=JetBrains%20Mono)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=shruthi_19&theme=dark)
 
-</div>
+---
 
-<br/>
+## Activity
 
-<div align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shruthi0719&theme=github-dark)
 
-## 📫 Contact
+---
 
-</div>
-
-- 🔗 LinkedIn: https://linkedin.com/in/rshruthiyadav  
-- 📧 Email: shruthii1819@gmail.com
+## Contact
+LinkedIn: https://linkedin.com/in/rshruthiyadav  
+Email: shruthii1819@gmail.com
 
 
