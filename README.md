@@ -1,52 +1,95 @@
 <div align="center">
 
-# R Shruthi Yadav
+# 🏥 Hospital Patient Management System
 
-### Backend-Focused Software Engineer · CS Undergraduate
+*A full-stack web application for managing hospital patient records*
+*with a RESTful backend and persistent database storage.*
 
-*Building production-oriented backend systems with strong foundations in*
-*data structures, databases, and system-level thinking.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rshruthiyadav-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rshruthiyadav)
-[![LeetCode](https://img.shields.io/badge/LeetCode-shruthi__19-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/shruthi_19)
-[![Email](https://img.shields.io/badge/Email-shruthii1819@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shruthii1819@gmail.com)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-REST%20API-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Overview
 
-| Area | Technologies |
+A complete hospital patient record management system built with a Node.js/Express backend and MongoDB Atlas for persistent storage. Supports full CRUD operations, bulk CSV import/export, and patient search — all accessible through a clean frontend interface.
+
+---
+
+## Features
+
+| Feature | Description |
 |---|---|
-| **Languages** | Java · SQL · Python |
-| **Backend** | REST APIs · OOP · Spring Boot *(learning)* |
-| **Tools** | Git · GitHub · Linux |
+| **CRUD APIs** | Create, read, update, and delete patient records via RESTful endpoints |
+| **MongoDB Atlas** | Cloud-hosted database with unique indexing on patient ID |
+| **CSV Support** | Bulk data import and backup through CSV files |
+| **Search** | Look up patients by ID or name |
+| **Frontend UI** | Browser-based interface for managing records without API calls |
 
 ---
 
-## 📚 CS Foundations
+## Tech Stack
 
-`Data Structures` `Algorithms` `DBMS` `Operating Systems` `Computer Networks`
-
----
-
-## 🎯 Focus Areas
-
-- ⚙️ Backend engineering using the Java ecosystem
-- 🔌 Scalable API design and system logic clarity
-- 🐧 Linux-based development workflows
-- 🌐 Open-source contribution readiness *(GSoC)*
+| Layer | Technologies |
+|---|---|
+| **Backend** | Node.js · Express |
+| **Database** | MongoDB Atlas |
+| **Frontend** | HTML · CSS · JavaScript |
+| **Tools** | Git · GitHub |
 
 ---
 
-## 💡 Problem Solving
+## Getting Started
+
+### Prerequisites
+
+- Node.js v16+
+- A [MongoDB Atlas](https://www.mongodb.com/atlas) account with a cluster set up
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/hospital-patient-management.git
+cd hospital-patient-management
+
+# 2. Install dependencies
+npm install
+
+# 3. Configure environment — create a .env file
+MONGO_URI=your_mongodb_connection_string
+PORT=3000
+
+# 4. Start the server
+node server.js
+```
+
+Server runs on `http://localhost:3000`
+
+---
+
+## API Reference
+
+| Method | Endpoint | Description |
+|---|---|---|
+| `GET` | `/patients` | Fetch all patient records |
+| `GET` | `/patients/:id` | Fetch a patient by ID |
+| `POST` | `/patients` | Add a new patient record |
+| `PUT` | `/patients/:id` | Update an existing record |
+| `DELETE` | `/patients/:id` | Delete a patient record |
+| `GET` | `/patients/search?name=` | Search patients by name |
+| `POST` | `/patients/import` | Bulk import via CSV |
+| `GET` | `/patients/export` | Export all records as CSV |
+
+---
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shruthi_19?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/shruthi_19)
-
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=shruthi_19&theme=dark)](https://leetcode.com/shruthi_19)
+Built by [R Shruthi Yadav](https://linkedin.com/in/rshruthiyadav)
 
 </div>
