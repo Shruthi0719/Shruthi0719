@@ -85,35 +85,3 @@ Looking for roles in **Backend Engineering** · **Software Development** · **Cl
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shruthi0719&color=2ea44f&style=flat&label=Profile+Views)
 
 </div>
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shruthi_19?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/shruthi_19)
-
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=shruthi_19&theme=dark)](https://leetcode.com/shruthi_19)
-
-</div>
-
----
-
-## ⚡ Current Focus
-
-- 📚 Deepening backend and system design knowledge
-- 🚀 Building production-oriented backend systems
-- ☁️ Exploring AWS and event-driven architectures
-
----
-
-## 🤝 Open to Opportunities
-
-Looking for roles in **Backend Engineering** · **Software Development** · **Cloud & Systems Engineering**
-
-*Let's build something meaningful 🚀*
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Shruthi0719&color=2ea44f&style=flat&label=Profile+Views)
-
-</div>
